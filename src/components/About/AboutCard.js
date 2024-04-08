@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Haris Dominic Savier </span>
             from <span className="purple"> Palakkad, India.</span>
             <br />
-            Currently pursuing my bachelor's degree (Computer And Communication).
+            Currently pursuing my bachelor's degree of Computer And Communication
             <br />
             I am an Open Source Android Developer  who
             enjoy tinkering, changing, and breaking the Android operating system.
